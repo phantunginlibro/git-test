@@ -4,7 +4,7 @@ use strict;
 use warnings;
 sub new {
 
-#Version 1
+#Version 2
 #modify something something
 
 
