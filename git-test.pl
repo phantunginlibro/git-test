@@ -1,4 +1,3 @@
-package git-test;
 
 use strict;
 use warnings;
